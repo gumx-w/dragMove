@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>drag move</title>
+	<link rel="stylesheet" href="">
+	<script src="./dragMove.js" type="text/javascript"></script>
+</head>
+<body style="background-color: #ddd;">
+	
+	<div id="dragEl" style="width: 300px;height: 300px;background-color: #FFF;display: inline-block;">
+		<div id="targetEl" style="width: 300px;height: 30px;background-color: red;line-height: 30px;;display: inline-block;"><span style="margin-left: 8px;display: inline-block;">点击红色区域拖拽移动</span></div>
+	</div>
+	
+	<script type="text/javascript">
+		new DragMove(document.getElementById('dragEl'),document.getElementById('targetEl'));
+	</script>
+</body>
+</html>
