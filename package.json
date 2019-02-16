@@ -1,0 +1,22 @@
+{
+  "name": "drag-move",
+  "version": "1.0.0",
+  "description": "实现了拖拽功能，用法简单。",
+  "main": "dragMove.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gumx-w/dragMove.git"
+  },
+  "keywords": [
+    "dragMove"
+  ],
+  "author": "gumx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gumx-w/dragMove/issues"
+  },
+  "homepage": "https://github.com/gumx-w/dragMove#readme"
+}
