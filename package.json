@@ -1,6 +1,6 @@
 {
   "name": "drag-move",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "实现了拖拽功能，用法简单。",
   "main": "dragMove.js",
   "scripts": {
