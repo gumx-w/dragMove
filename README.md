@@ -1,5 +1,5 @@
 # dragMove
 JavaScript 拖拽功能。
 
-**用例查看 index.html**
+### 演示地址： http://demo.gumx.top/drag-move/
 
